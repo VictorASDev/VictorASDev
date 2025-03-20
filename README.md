@@ -21,7 +21,7 @@
 
 
 <p align="right">
-  <img src="https://media.tenor.com/C21__JHNM8kAAAAj/mew-pokemon.gif" width="200"/>
+  <img src="https://media.tenor.com/C21__JHNM8kAAAAj/mew-pokemon.gif" alt="pokemon mew gif" width="200"/>
 </p>
 
 
