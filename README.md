@@ -22,4 +22,4 @@
 
 <p align="center">⚡ Sempre aprendendo e desenvolvendo novos projetos!</p>
 
-<img src="[https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1b48933b-5d89-4060-b0af-8fc27a283623/d9tpcbl-a1a52e8c-417d-44e1-ba84-7afa0700b5a2.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFiNDg5MzNiLTVkODktNDA2MC1iMGFmLThmYzI3YTI4MzYyM1wvZDl0cGNibC1hMWE1MmU4Yy00MTdkLTQ0ZTEtYmE4NC03YWZhMDcwMGI1YTIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.aKbqt65OfHpzTy-FFuSWxsRzgnyqYIdT7XjyLE6yVIY)" width="500"/>
+<img src="https://media.tenor.com/C21__JHNM8kAAAAj/mew-pokemon.gif" width="500"/>
