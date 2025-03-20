@@ -22,4 +22,6 @@
 
 <p align="center">⚡ Sempre aprendendo e desenvolvendo novos projetos!</p>
 
-<img src="https://media.tenor.com/C21__JHNM8kAAAAj/mew-pokemon.gif" width="500"/>
+<p align="right">
+  <img src="https://media.tenor.com/C21__JHNM8kAAAAj/mew-pokemon.gif" width="200"/>
+</p>
