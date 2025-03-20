@@ -20,8 +20,9 @@
 🔗 [Meu GitHub](https://github.com/victorASDev)  
 
 
-<p align="center">⚡ Sempre aprendendo e desenvolvendo novos projetos!</p>
-
 <p align="right">
   <img src="https://media.tenor.com/C21__JHNM8kAAAAj/mew-pokemon.gif" width="200"/>
 </p>
+
+
+<p align="center">⚡ Sempre aprendendo e desenvolvendo novos projetos!</p>
