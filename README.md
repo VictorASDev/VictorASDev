@@ -9,7 +9,7 @@
 
 💻 **Linguagens:** HTML, CSS, JavaScript, TypeScript  
 ⚙️ **Paradigmas:** Programação Orientada a Objetos  
-🛠 **Frameworks e Bibliotecas:** React.js, Next.js  
+🛠 **Frameworks e Bibliotecas:** React.js  
 🔧 **Ferramentas:** Git, GitHub, VS Code  
 🌱 **Aprendendo:** TypeScript, React e Next.js  
 
