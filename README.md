@@ -1,28 +1,37 @@
-<h1 align="center">👋 Olá! Eu sou Victor Augusto</h1>
+<h1 align="center"> 👋 Hello, world! Eu sou Victor Augusto</h1>
 
 <p align="center">
-  Estudante de Sistemas de Informação no IFBA e apaixonado por tecnologia. Atualmente, estou focado no desenvolvimento web e aprimorando minhas habilidades em programação.
+     👨‍💻 Desenvolvedor apaixonado por tecnologia <br>
+     💻 Estudante de Sistemas de Informação no IFBA <br>
+     🌎 Explorando o mundo da programação
+</p>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=VictorASDev&show_icons=true&theme=tokyonight" alt="GitHub stats" height="200px" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorASDev&layout=compact&theme=tokyonight" alt="Top Langs" height="200px" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=seu-usuario&label=Profile%20views&color=0e75b6&style=flat" alt="contador de visitantes" />
+</p>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" />
+    <img src="https://img.shields.io/badge/C-black?style=flat-square&logo=c" />
+    <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript" />
+    <img src="https://img.shields.io/badge/HTML5-black?style=flat-square&logo=html5" />
+    <img src="https://img.shields.io/badge/CSS3-black?style=flat-square&logo=css3" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/victor-augusto-silva-jesus" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:victor.augustosilva004@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 
-### 🚀 Tecnologias e ferramentas  
 
-💻 **Linguagens:** HTML, CSS, JavaScript, TypeScript  
-⚙️ **Paradigmas:** Programação Orientada a Objetos  
-🛠 **Frameworks e Bibliotecas:** React.js  
-🔧 **Ferramentas:** Git, GitHub, VS Code  
-🌱 **Aprendendo:** TypeScript, React e Next.js  
-
-
-### 📫 Contato  
-📧 victor.augustosilva004@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/victor-augusto-silva-jesus)  
-🔗 [Meu GitHub](https://github.com/victorASDev)  
-
-
-<p align="right">
-  <img src="https://media.tenor.com/C21__JHNM8kAAAAj/mew-pokemon.gif" alt="pokemon mew gif" width="200"/>
-</p>
-
-
-<p align="center">⚡ Sempre aprendendo e desenvolvendo novos projetos!</p>
