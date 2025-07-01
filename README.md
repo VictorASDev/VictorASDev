@@ -18,12 +18,9 @@
 <h2 align="center"> Tecnologias </h2>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" />
-    <img src="https://img.shields.io/badge/C-black?style=flat-square&logo=c" />
-    <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript" />
-    <img src="https://img.shields.io/badge/HTML5-black?style=flat-square&logo=html5" />
-    <img src="https://img.shields.io/badge/CSS3-black?style=flat-square&logo=css3" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,typescript,tailwind,react,java,mysql" />
+  </a>
 </p>
 
 <h2 align="center"> Entre em contato! </h2>
@@ -35,6 +32,3 @@
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
-
-
