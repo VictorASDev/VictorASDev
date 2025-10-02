@@ -13,14 +13,14 @@
 <h2 align="center">Estatísticas</h2>
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=VictorASDev&show_icons=true&theme=tokyonight&card_width=400" 
+    src="https://github-readme-stats.vercel.app/api?username=VictorASDev&show_icons=true&theme=tokyonight&card_width=350" 
     alt="GitHub stats" 
-    height="200px"/>
+    height="180px"/>
   
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorASDev&layout=compact&theme=tokyonight&card_width=400" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorASDev&layout=compact&theme=tokyonight&card_width=350" 
     alt="Top Langs" 
-    height="200px"/>
+    height="180px"/>
 </p>
 
 
