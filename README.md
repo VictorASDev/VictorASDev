@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=poppins&weight=800&size=100&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=100&lines=Hello%2C+World!+" alt="Typing SVG" /></a>
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=poppins&weight=800&size=100&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=950&height=100&lines=Hello%2C+World!+" alt="Typing SVG" /></a>
 <p align="center">
      👨‍💻 Desenvolvedor apaixonado por tecnologia <br>
      💻 Estudante de Sistemas de Informação no IFBA <br>
