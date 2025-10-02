@@ -30,8 +30,9 @@
   <a href="https://www.linkedin.com/in/victor-augusto-silva-jesus" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:victor.augustosilva004@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+
+  <a href="mailto:victor.augustosilva004@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
