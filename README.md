@@ -5,6 +5,7 @@
      🌎 Explorando o mundo da programação
 </p>
 
+---
 <h2 align="center"> Estatísticas </h2>
 
 <p align="center">
@@ -12,6 +13,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorASDev&layout=compact&theme=tokyonight" alt="Top Langs" height="200px" width="300px"/>
 </p>
 
+---
 <h2 align="center"> Tecnologias </h2>
 
 <p align="center">
@@ -20,8 +22,19 @@
   </a>
 </p>
 
+---
+<h2 align="center">Projetos em destaque</h2>
 
+<p align="center">
+  <a href="https://github.com/VictorASDev/dungeons-and-dragons">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorASDev&repo=dungeons-and-dragons&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=C9D1D9" alt="Dungeons and Dragons" width="500px" />
+  </a>
+  <a href="https://github.com/VictorASDev/springsecurity">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorASDev&repo=springsecurity&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=C9D1D9" alt="Spring Security" width="470px" />
+  </a>
+</p>
 
+---
 <h2 align="center"> Entre em contato! </h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/victor-augusto-silva-jesus" target="_blank">
@@ -32,7 +45,7 @@
   </a>
 </p>
 
-
+---
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=seu-usuario&label=Profile%20views&color=0e75b6&style=flat" alt="contador de visitantes" />
 </p>
