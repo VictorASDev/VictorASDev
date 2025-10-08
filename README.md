@@ -27,10 +27,10 @@
 
 <p align="center">
   <a href="https://github.com/VictorASDev/dungeons-and-dragons">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorASDev&repo=dungeons-and-dragons&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=C9D1D9" alt="Dungeons and Dragons" width="500px" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorASDev&repo=dungeons-and-dragons&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=C9D1D9" alt="Dungeons and Dragons" width="390px" />
   </a>
   <a href="https://github.com/VictorASDev/springsecurity">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorASDev&repo=springsecurity&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=C9D1D9" alt="Spring Security" width="470px" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorASDev&repo=springsecurity&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=C9D1D9" alt="Spring Security" width="370px" />
   </a>
 </p>
 
