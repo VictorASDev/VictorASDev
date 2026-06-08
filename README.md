@@ -9,8 +9,9 @@
 <h2 align="center"> Estatísticas </h2>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=VictorASDev&show_icons=true&theme=tokyonight" alt="GitHub stats" height="200px" width="395px"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorASDev&layout=compact&theme=tokyonight" alt="Top Langs" height="200px" width="300px"/>
+    <img src="https://streak-stats.demolab.com/?user=VictorASDev&theme=tokyonight" alt="GitHub stats" height="200px" width="420px"/>
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=VictorASDev&layout=compact&theme=tokyonight"
+  alt="Top Languages"/>
 </p>
 
 ---
@@ -26,11 +27,12 @@
 <h2 align="center">Projetos em destaque</h2>
 
 <p align="center">
-  <a href="https://github.com/VictorASDev/dungeons-and-dragons">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorASDev&repo=dungeons-and-dragons&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=C9D1D9" alt="Dungeons and Dragons" width="390px" />
+  <a href="https://github.com/VictorASDev/collaborative-whiteboard">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=VictorASDev&repo=collaborative-whiteboard&theme=tokyonight" alt="Dungeons and Dragons" width="390px" />
   </a>
+
   <a href="https://github.com/VictorASDev/springsecurity">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorASDev&repo=springsecurity&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=C9D1D9" alt="Spring Security" width="370px" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=VictorASDev&repo=springsecurity&theme=tokyonight" alt="Spring Security" width="390px" />
   </a>
 </p>
 
