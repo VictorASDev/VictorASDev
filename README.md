@@ -28,11 +28,11 @@
 
 <p align="center">
   <a href="https://github.com/VictorASDev/collaborative-whiteboard">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=VictorASDev&repo=collaborative-whiteboard&theme=tokyonight" alt="Dungeons and Dragons" width="390px" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=VictorASDev&repo=collaborative-whiteboard&theme=tokyonight" alt="collaborative-whiteboard" width="390px" />
   </a>
 
-  <a href="https://github.com/VictorASDev/springsecurity">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=VictorASDev&repo=springsecurity&theme=tokyonight" alt="Spring Security" width="390px" />
+  <a href="https://github.com/VictorASDev/trello_clone_backend">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=VictorASDev&repo=trello_clone_backend&theme=tokyonight" alt="trello_clone_backend" width="390px" />
   </a>
 </p>
 
